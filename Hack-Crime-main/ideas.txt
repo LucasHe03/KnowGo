@@ -1,6 +1,0 @@
-Basics:
-- Google map
-- Crime heat map
-
-Add-ons:
-- Dropdown (default, precise, non-precise) for sample size
